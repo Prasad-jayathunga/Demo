@@ -1,0 +1,18 @@
+<style>
+        .table,
+        th,
+        td {
+           
+            width: 100px;
+            height: 300px;
+
+
+        }
+
+        .td,th {
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    </style>
